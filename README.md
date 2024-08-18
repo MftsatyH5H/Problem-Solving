@@ -1,5 +1,5 @@
 # Problem-Solving
-this a repo contains the problem is solve
+this a repo contains the problem i solve
 
 ### Simple array sum: https://www.hackerrank.com/challenges/simple-array-sum/problem
 ### Compare the triplets: https://www.hackerrank.com/challenges/compare-the-triplets/problem
